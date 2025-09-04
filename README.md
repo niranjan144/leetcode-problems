@@ -5,4 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2752-sum-multiples](https://github.com/niranjan144/leetcode-problems/tree/master/2752-sum-multiples) |
+## Array
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+## String
+|  |
+| ------- |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
