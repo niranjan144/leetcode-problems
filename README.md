@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/niranjan144/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/niranjan144/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -45,4 +46,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/niranjan144/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
