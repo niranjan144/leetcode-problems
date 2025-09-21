@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/niranjan144/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/niranjan144/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/niranjan144/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
 | ------- |
