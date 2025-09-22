@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/niranjan144/leetcode-problems/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/niranjan144/leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/niranjan144/leetcode-problems/tree/master/2752-sum-multiples) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
