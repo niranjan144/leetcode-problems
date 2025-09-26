@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/niranjan144/leetcode-problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/niranjan144/leetcode-problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/niranjan144/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [1677-matrix-diagonal-sum](https://github.com/niranjan144/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/niranjan144/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/niranjan144/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
