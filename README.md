@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/niranjan144/leetcode-problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/niranjan144/leetcode-problems/tree/master/2383-add-two-integers) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0742-to-lower-case](https://github.com/niranjan144/leetcode-problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
