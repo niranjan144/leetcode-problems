@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/niranjan144/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/niranjan144/leetcode-problems/tree/master/2383-add-two-integers) |
