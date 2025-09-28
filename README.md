@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/niranjan144/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0742-to-lower-case](https://github.com/niranjan144/leetcode-problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/niranjan144/leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/niranjan144/leetcode-problems/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/niranjan144/leetcode-problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
