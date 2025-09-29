@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/niranjan144/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/niranjan144/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/niranjan144/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1944-truncate-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/niranjan144/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
