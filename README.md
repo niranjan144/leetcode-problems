@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3379-score-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/niranjan144/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
