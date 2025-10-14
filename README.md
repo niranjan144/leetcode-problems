@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/niranjan144/leetcode-problems/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/niranjan144/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1797-goal-parser-interpretation](https://github.com/niranjan144/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/niranjan144/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1944-truncate-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
