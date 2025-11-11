@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/niranjan144/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
 | [1651-shuffle-string](https://github.com/niranjan144/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/niranjan144/leetcode-problems/tree/master/1677-matrix-diagonal-sum) |
+| [1755-defuse-the-bomb](https://github.com/niranjan144/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/niranjan144/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1944-truncate-sentence) |
@@ -184,4 +185,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niranjan144/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1755-defuse-the-bomb](https://github.com/niranjan144/leetcode-problems/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
