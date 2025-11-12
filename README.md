@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/niranjan144/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/niranjan144/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/niranjan144/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/niranjan144/leetcode-problems/tree/master/2383-add-two-integers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/niranjan144/leetcode-problems/tree/master/0067-add-binary) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/niranjan144/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/niranjan144/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/niranjan144/leetcode-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 ## Backtracking
