@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/niranjan144/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2383-add-two-integers](https://github.com/niranjan144/leetcode-problems/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/niranjan144/leetcode-problems/tree/master/2491-smallest-even-multiple) |
+| [2571-find-the-pivot-integer](https://github.com/niranjan144/leetcode-problems/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/niranjan144/leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/niranjan144/leetcode-problems/tree/master/2752-sum-multiples) |
 | [3371-harshad-number](https://github.com/niranjan144/leetcode-problems/tree/master/3371-harshad-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/niranjan144/leetcode-problems/tree/master/1603-running-sum-of-1d-array) |
+| [2571-find-the-pivot-integer](https://github.com/niranjan144/leetcode-problems/tree/master/2571-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
