@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/niranjan144/leetcode-problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/niranjan144/leetcode-problems/tree/master/0055-jump-game) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/niranjan144/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/niranjan144/leetcode-problems/tree/master/1448-maximum-69-number) |
 ## Matrix
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/niranjan144/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/niranjan144/leetcode-problems/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
