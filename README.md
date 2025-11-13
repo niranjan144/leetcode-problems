@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/niranjan144/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/niranjan144/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/niranjan144/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/niranjan144/leetcode-problems/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/niranjan144/leetcode-problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
