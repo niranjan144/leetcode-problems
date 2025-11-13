@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/niranjan144/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/niranjan144/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/niranjan144/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/niranjan144/leetcode-problems/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Stack
 |  |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/niranjan144/leetcode-problems/tree/master/1505-create-target-array-in-the-given-order) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/niranjan144/leetcode-problems/tree/master/4058-compute-alternating-sum) |
