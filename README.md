@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/niranjan144/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2553-separate-the-digits-in-an-array](https://github.com/niranjan144/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/niranjan144/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/niranjan144/leetcode-problems/tree/master/1505-create-target-array-in-the-given-order) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/niranjan144/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/niranjan144/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Greedy
