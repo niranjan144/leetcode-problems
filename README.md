@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/niranjan144/leetcode-problems/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/niranjan144/leetcode-problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/niranjan144/leetcode-problems/tree/master/1797-goal-parser-interpretation) |
+| [1859-sorting-the-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [1899-count-items-matching-a-rule](https://github.com/niranjan144/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1944-truncate-sentence) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/niranjan144/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/niranjan144/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1859-sorting-the-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1859-sorting-the-sentence) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/niranjan144/leetcode-problems/tree/master/3778-transform-array-by-parity) |
