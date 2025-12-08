@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/niranjan144/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/niranjan144/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/niranjan144/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
 | [0263-ugly-number](https://github.com/niranjan144/leetcode-problems/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/niranjan144/leetcode-problems/tree/master/0728-self-dividing-numbers) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/niranjan144/leetcode-problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/niranjan144/leetcode-problems/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
