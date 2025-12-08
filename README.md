@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/niranjan144/leetcode-problems/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/niranjan144/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/niranjan144/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/niranjan144/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/niranjan144/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3778-transform-array-by-parity](https://github.com/niranjan144/leetcode-problems/tree/master/3778-transform-array-by-parity) |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/niranjan144/leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/niranjan144/leetcode-problems/tree/master/0060-permutation-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
