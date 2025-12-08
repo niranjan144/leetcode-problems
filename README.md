@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/niranjan144/leetcode-problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/niranjan144/leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/niranjan144/leetcode-problems/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/niranjan144/leetcode-problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/niranjan144/leetcode-problems/tree/master/0069-sqrtx) |
@@ -233,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/niranjan144/leetcode-problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/niranjan144/leetcode-problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
