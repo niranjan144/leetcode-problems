@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3295-report-spam-message](https://github.com/niranjan144/leetcode-problems/tree/master/3295-report-spam-message) |
 | [3379-score-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3379-score-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/niranjan144/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/niranjan144/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3295-report-spam-message](https://github.com/niranjan144/leetcode-problems/tree/master/3295-report-spam-message) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/niranjan144/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/niranjan144/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/niranjan144/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/niranjan144/leetcode-problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
