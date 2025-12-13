@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0274-h-index](https://github.com/niranjan144/leetcode-problems/tree/master/0274-h-index) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niranjan144/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/niranjan144/leetcode-problems/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/niranjan144/leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/niranjan144/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/niranjan144/leetcode-problems/tree/master/0274-h-index) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/niranjan144/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3778-transform-array-by-parity](https://github.com/niranjan144/leetcode-problems/tree/master/3778-transform-array-by-parity) |
