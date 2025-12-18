@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/niranjan144/leetcode-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/niranjan144/leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/niranjan144/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/niranjan144/leetcode-problems/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/niranjan144/leetcode-problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/niranjan144/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/niranjan144/leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/niranjan144/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niranjan144/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/niranjan144/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
