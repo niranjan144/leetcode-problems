@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/niranjan144/leetcode-problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/niranjan144/leetcode-problems/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/niranjan144/leetcode-problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/niranjan144/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0742-to-lower-case](https://github.com/niranjan144/leetcode-problems/tree/master/0742-to-lower-case) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/niranjan144/leetcode-problems/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/niranjan144/leetcode-problems/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/niranjan144/leetcode-problems/tree/master/0383-ransom-note) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/niranjan144/leetcode-problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3778-transform-array-by-parity](https://github.com/niranjan144/leetcode-problems/tree/master/3778-transform-array-by-parity) |
