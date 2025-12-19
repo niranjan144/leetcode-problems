@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/niranjan144/leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/niranjan144/leetcode-problems/tree/master/0274-h-index) |
+| [0485-max-consecutive-ones](https://github.com/niranjan144/leetcode-problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0830-largest-triangle-area](https://github.com/niranjan144/leetcode-problems/tree/master/0830-largest-triangle-area) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
