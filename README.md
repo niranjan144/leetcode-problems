@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/niranjan144/leetcode-problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/niranjan144/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/niranjan144/leetcode-problems/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/niranjan144/leetcode-problems/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/niranjan144/leetcode-problems/tree/master/0415-add-strings) |
 | [0728-self-dividing-numbers](https://github.com/niranjan144/leetcode-problems/tree/master/0728-self-dividing-numbers) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/niranjan144/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/niranjan144/leetcode-problems/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/niranjan144/leetcode-problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/niranjan144/leetcode-problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/niranjan144/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/niranjan144/leetcode-problems/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/niranjan144/leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niranjan144/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/niranjan144/leetcode-problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/niranjan144/leetcode-problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/niranjan144/leetcode-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/niranjan144/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/niranjan144/leetcode-problems/tree/master/0874-backspace-string-compare) |
