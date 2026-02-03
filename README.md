@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3371-harshad-number](https://github.com/niranjan144/leetcode-problems/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/niranjan144/leetcode-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/niranjan144/leetcode-problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3783-mirror-distance-of-an-integer](https://github.com/niranjan144/leetcode-problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/niranjan144/leetcode-problems/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Array
 |  |
