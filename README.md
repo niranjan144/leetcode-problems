@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/niranjan144/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2678-number-of-senior-citizens](https://github.com/niranjan144/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2714-left-and-right-sum-differences](https://github.com/niranjan144/leetcode-problems/tree/master/2714-left-and-right-sum-differences) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/niranjan144/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/niranjan144/leetcode-problems/tree/master/2315-count-asterisks) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/niranjan144/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3295-report-spam-message](https://github.com/niranjan144/leetcode-problems/tree/master/3295-report-spam-message) |
 | [3379-score-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3379-score-of-a-string) |
