@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/niranjan144/leetcode-problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/niranjan144/leetcode-problems/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3248-snake-in-matrix](https://github.com/niranjan144/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3295-report-spam-message](https://github.com/niranjan144/leetcode-problems/tree/master/3295-report-spam-message) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/niranjan144/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/niranjan144/leetcode-problems/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/niranjan144/leetcode-problems/tree/master/2678-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/niranjan144/leetcode-problems/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3248-snake-in-matrix](https://github.com/niranjan144/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3295-report-spam-message](https://github.com/niranjan144/leetcode-problems/tree/master/3295-report-spam-message) |
 | [3379-score-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3379-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/niranjan144/leetcode-problems/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/2470-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/niranjan144/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [3248-snake-in-matrix](https://github.com/niranjan144/leetcode-problems/tree/master/3248-snake-in-matrix) |
 | [3811-reverse-degree-of-a-string](https://github.com/niranjan144/leetcode-problems/tree/master/3811-reverse-degree-of-a-string) |
 | [4058-compute-alternating-sum](https://github.com/niranjan144/leetcode-problems/tree/master/4058-compute-alternating-sum) |
 ## Greedy
