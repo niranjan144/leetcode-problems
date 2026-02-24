@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/niranjan144/leetcode-problems/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/niranjan144/leetcode-problems/tree/master/1944-truncate-sentence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/niranjan144/leetcode-problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/niranjan144/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/niranjan144/leetcode-problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [2553-separate-the-digits-in-an-array](https://github.com/niranjan144/leetcode-problems/tree/master/2553-separate-the-digits-in-an-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/niranjan144/leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/niranjan144/leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/niranjan144/leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/niranjan144/leetcode-problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2502-sort-the-people](https://github.com/niranjan144/leetcode-problems/tree/master/2502-sort-the-people) |
 | [3295-report-spam-message](https://github.com/niranjan144/leetcode-problems/tree/master/3295-report-spam-message) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/niranjan144/leetcode-problems/tree/master/3446-find-the-number-of-good-pairs-i) |
